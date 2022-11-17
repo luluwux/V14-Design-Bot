@@ -6,7 +6,7 @@
 
 # Sistemler:
 
-```js
+```
 ・Ticket 
 ・Yetkili, Rol Başvuru (İsteğe Bağlı Olarak Site Üzerinden)
 ・Portfolio Sistemi (Video & Resim)
