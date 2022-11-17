@@ -19,6 +19,10 @@
 
 # Görseller:
 
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910535139741696/image_8.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910545751310336/image_2.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910546695049286/image_1.png)
+
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/1026609796218093660/1042907935690469376/image.png)
 
 
