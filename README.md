@@ -22,7 +22,13 @@
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910535139741696/image_8.png)
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910545751310336/image_2.png)
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910546695049286/image_1.png)
-
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910547072516188/image.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910537794736128/image_3.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910536729382912/image_5.png)
+![Lulu Senpai](https://media.discordapp.net/attachments/952965223097184276/1042910535819198465/image_7.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/1026609796218093660/1042911408557391922/image.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910536301559810/image_6.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/952965223097184276/1042910534535741530/image_9.png)
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/1026609796218093660/1042907935690469376/image.png)
 
 
