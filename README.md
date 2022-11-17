@@ -17,7 +17,9 @@
 ・Rol Seçim Menüleri (Renk vb.)
 ```
 
-# Görseller
+# Görseller:
+
+![Lulu Senpai](https://cdn.discordapp.com/attachments/1026609796218093660/1042907935690469376/image.png)
 
 
 
