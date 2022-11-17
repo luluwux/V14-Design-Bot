@@ -6,6 +6,7 @@
 
 # Sistemler:
 
+```js
 ・Ticket 
 ・Yetkili, Rol Başvuru (İsteğe Bağlı Olarak Site Üzerinden)
 ・Portfolio Sistemi (Video & Resim)
@@ -14,6 +15,7 @@
 ・Like Sistemi
 ・İstek - Öneri - Şikayet Sistemi
 ・Rol Seçim Menüleri (Renk vb.)
+```
 
 # Görseller
 
